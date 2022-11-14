@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/Desktop/Lab07/priorityQueue.h
+string
+-
+
+/home/ktillery/Desktop/Lab07/tests.cpp
+priorityQueue.h
+/home/ktillery/Desktop/Lab07/priorityQueue.h
+gtest/gtest.h
+-
+

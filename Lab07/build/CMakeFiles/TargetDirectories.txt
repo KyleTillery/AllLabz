@@ -1,0 +1,5 @@
+/home/ktillery/Desktop/Lab07/build/CMakeFiles/rebuild_cache.dir
+/home/ktillery/Desktop/Lab07/build/CMakeFiles/edit_cache.dir
+/home/ktillery/Desktop/Lab07/build/CMakeFiles/runMain.dir
+/home/ktillery/Desktop/Lab07/build/CMakeFiles/runTests.dir
+/home/ktillery/Desktop/Lab07/build/CMakeFiles/applibrary.dir

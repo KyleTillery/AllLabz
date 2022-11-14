@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/Desktop/Lab04/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+list
+-
+cmath
+-
+

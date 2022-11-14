@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ktillery/Desktop/Lab04/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/ktillery/Desktop/Lab04/main.cpp",
+  "file": "/home/ktillery/Desktop/Lab04/main.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab04/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/main.cpp.o -c /home/ktillery/Desktop/Lab04/main.cpp",
+  "file": "/home/ktillery/Desktop/Lab04/main.cpp"
+}
+]

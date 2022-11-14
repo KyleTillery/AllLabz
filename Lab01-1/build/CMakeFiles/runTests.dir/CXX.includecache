@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/Desktop/Lab01-1/LinkedList.h
+string
+-
+
+/home/ktillery/Desktop/Lab01-1/tests.cpp
+LinkedList.h
+/home/ktillery/Desktop/Lab01-1/LinkedList.h
+gtest/gtest.h
+-
+

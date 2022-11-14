@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapplibrarys.a  CMakeFiles/applibrarys.dir/BST.cpp.o
+/usr/bin/ranlib libapplibrarys.a

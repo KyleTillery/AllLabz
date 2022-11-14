@@ -6,18 +6,19 @@ using namespace std;
 class graph
 {
     public:
-        graph();
+        graph(int numEdge);
         ~graph();
 
         void addEdge(int i, int j);
         void removeEdge(int i, int j);
-        bool hasEdge();
-        int outEdges();
-        int inEdges();
-        string PrintOutMatrix();
+        bool hasEdge(int i, int j);
+        vector<int> outEdges();
+        vector<int> inEdges();
+        bool PrintOutMatrix();
 
-    private:
-        vector<int> adj;
+    protected:
+        int** adj;
+        int numEdge;
 
 
 

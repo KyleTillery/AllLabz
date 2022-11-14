@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ktillery/Desktop/Lab5All/Lab05/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/runMain.dir/main.cpp.o -c /home/ktillery/Desktop/Lab5All/Lab05/main.cpp",
+  "file": "/home/ktillery/Desktop/Lab5All/Lab05/main.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab5All/Lab05/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/ktillery/Desktop/Lab5All/Lab05/tests.cpp",
+  "file": "/home/ktillery/Desktop/Lab5All/Lab05/tests.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab5All/Lab05/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/applibrary.dir/Recursion.cpp.o -c /home/ktillery/Desktop/Lab5All/Lab05/Recursion.cpp",
+  "file": "/home/ktillery/Desktop/Lab5All/Lab05/Recursion.cpp"
+}
+]

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/Desktop/Lab02/StackQueue.cpp
+StackQueue.h
+/home/ktillery/Desktop/Lab02/StackQueue.h
+string
+-
+iostream
+-
+array
+-
+
+/home/ktillery/Desktop/Lab02/StackQueue.h
+string
+-
+StackQueue.cpp
+/home/ktillery/Desktop/Lab02/StackQueue.cpp
+

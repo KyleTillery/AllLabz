@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ktillery/Desktop/Lab02/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/ktillery/Desktop/Lab02/tests.cpp",
+  "file": "/home/ktillery/Desktop/Lab02/tests.cpp"
+}
+]

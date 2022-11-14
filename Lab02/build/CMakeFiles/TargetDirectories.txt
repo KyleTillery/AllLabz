@@ -1,0 +1,3 @@
+/home/ktillery/Desktop/Lab02/build/CMakeFiles/rebuild_cache.dir
+/home/ktillery/Desktop/Lab02/build/CMakeFiles/edit_cache.dir
+/home/ktillery/Desktop/Lab02/build/CMakeFiles/runTests.dir

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/ktillery/Desktop/Lab03/main.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/main.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/ktillery/Desktop/Lab03/tests.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/tests.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/Card.cpp.o -c /home/ktillery/Desktop/Lab03/Card.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/Card.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/DeckWithObjects.cpp.o -c /home/ktillery/Desktop/Lab03/DeckWithObjects.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/DeckWithObjects.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/GameWithObjects.cpp.o -c /home/ktillery/Desktop/Lab03/GameWithObjects.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/GameWithObjects.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/PersonWithObjects.cpp.o -c /home/ktillery/Desktop/Lab03/PersonWithObjects.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/PersonWithObjects.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/DeckWithPointers.cpp.o -c /home/ktillery/Desktop/Lab03/DeckWithPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/DeckWithPointers.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/GameWithPointers.cpp.o -c /home/ktillery/Desktop/Lab03/GameWithPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/GameWithPointers.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/PersonWithPointers.cpp.o -c /home/ktillery/Desktop/Lab03/PersonWithPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/PersonWithPointers.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/DeckWithSmartPointers.cpp.o -c /home/ktillery/Desktop/Lab03/DeckWithSmartPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/DeckWithSmartPointers.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/GameWithSmartPointers.cpp.o -c /home/ktillery/Desktop/Lab03/GameWithSmartPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/GameWithSmartPointers.cpp"
+},
+{
+  "directory": "/home/ktillery/Desktop/Lab03/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/PersonWithSmartPointers.cpp.o -c /home/ktillery/Desktop/Lab03/PersonWithSmartPointers.cpp",
+  "file": "/home/ktillery/Desktop/Lab03/PersonWithSmartPointers.cpp"
+}
+]

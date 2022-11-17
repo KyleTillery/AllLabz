@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/ktillery/Lab08/main.cpp",
+  "file": "/home/ktillery/Lab08/main.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/ktillery/Lab08/tests.cpp",
+  "file": "/home/ktillery/Lab08/tests.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/IRace.cpp.o -c /home/ktillery/Lab08/IRace.cpp",
+  "file": "/home/ktillery/Lab08/IRace.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/party.cpp.o -c /home/ktillery/Lab08/party.cpp",
+  "file": "/home/ktillery/Lab08/party.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/cleric.cpp.o -c /home/ktillery/Lab08/cleric.cpp",
+  "file": "/home/ktillery/Lab08/cleric.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/characterFactory.cpp.o -c /home/ktillery/Lab08/characterFactory.cpp",
+  "file": "/home/ktillery/Lab08/characterFactory.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/danceMan.cpp.o -c /home/ktillery/Lab08/danceMan.cpp",
+  "file": "/home/ktillery/Lab08/danceMan.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/dwarf.cpp.o -c /home/ktillery/Lab08/dwarf.cpp",
+  "file": "/home/ktillery/Lab08/dwarf.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/elves.cpp.o -c /home/ktillery/Lab08/elves.cpp",
+  "file": "/home/ktillery/Lab08/elves.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/fighter.cpp.o -c /home/ktillery/Lab08/fighter.cpp",
+  "file": "/home/ktillery/Lab08/fighter.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/human.cpp.o -c /home/ktillery/Lab08/human.cpp",
+  "file": "/home/ktillery/Lab08/human.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/rogue.cpp.o -c /home/ktillery/Lab08/rogue.cpp",
+  "file": "/home/ktillery/Lab08/rogue.cpp"
+},
+{
+  "directory": "/home/ktillery/Lab08/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/wizard.cpp.o -c /home/ktillery/Lab08/wizard.cpp",
+  "file": "/home/ktillery/Lab08/wizard.cpp"
+}
+]

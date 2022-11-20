@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/Desktop/Lab09/graph.h
+string
+-
+vector
+-
+iostream
+-
+
+/home/ktillery/Desktop/Lab09/main.cpp
+graph.h
+/home/ktillery/Desktop/Lab09/graph.h
+string
+-
+vector
+-
+iostream
+-
+limits
+-
+

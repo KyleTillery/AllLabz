@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktillery/AllLabz/Lab10/hashTable.h
+iostream
+-
+string
+-
+list
+-
+memory
+-
+bits/stdc++.h
+-
+
+/home/ktillery/AllLabz/Lab10/tests.cpp
+gtest/gtest.h
+-
+hashTable.h
+/home/ktillery/AllLabz/Lab10/hashTable.h
+vector
+-
+iostream
+-
+

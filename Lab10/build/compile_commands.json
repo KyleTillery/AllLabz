@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ktillery/AllLabz/Lab10/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/ktillery/AllLabz/Lab10/main.cpp",
+  "file": "/home/ktillery/AllLabz/Lab10/main.cpp"
+},
+{
+  "directory": "/home/ktillery/AllLabz/Lab10/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runTests.dir/tests.cpp.o -c /home/ktillery/AllLabz/Lab10/tests.cpp",
+  "file": "/home/ktillery/AllLabz/Lab10/tests.cpp"
+}
+]
